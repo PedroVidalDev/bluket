@@ -1,0 +1,216 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+
+/* GERAL */
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #e8eeff;
+    font-family: Montserrat;
+}
+
+section{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+    background-color: #6776ff;
+}
+
+/* HEADER */
+
+nav{
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 10vh;
+    background-color:rgb(0, 23, 66);
+    z-index: 99;
+    align-items: center;
+    justify-content: center;
+}
+
+a.logo{
+    font-size: 30px;
+    letter-spacing: 4px;
+    color: #fff;
+    margin-right: 20px;
+}
+
+input.search{
+    position: relative;
+    width: 50vw;
+    height: 7vh;
+    border-radius: 10px;
+    background-color: #ffffff9a;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    transition: .5s;
+}
+
+input.search:focus{
+    background-color: #ffffff;
+}
+
+a.menu{
+    color: #e9ebff;
+    font-size: 20px;
+    text-decoration: none;
+    transition: 0.3s;
+    border-radius: 10px;
+    padding: 7px 13px;
+}
+
+a.menu:hover{
+    background: rgba(177, 168, 255, 0.541);
+}
+
+.nav-list{
+    list-style: none;
+    display: flex;
+}
+
+.nav-list li{
+    letter-spacing: 3px;
+    margin-left: 40px;
+}
+
+.mobile_menu{
+    display: none;
+    cursor: pointer;
+}
+
+.mobile_menu div{
+    width: 32px;
+    height: 2px;
+    background: #fff;
+    margin: 8px;
+}
+
+/* FORMULARIO */
+
+div.create-container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    width: 350px;
+    height: 95%;
+    background-color: rgb(248, 248, 248, 0.7);
+    backdrop-filter: blur(50%);
+    border-radius: 15px;
+}
+
+p.create-title{
+    position: relative;
+    font-size: 40px;
+    text-align: center;
+}
+
+p.description{
+    position: relative;
+    font-size: 15px;
+    text-align: center;
+}
+
+form.product-submit{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+}
+
+div.ajustador-create{
+    position: relative;
+    display: flex;
+    margin: 10px 0;
+    justify-content: center;
+}
+
+input.title, input.price{
+    position: relative;
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color: #ffffff73;
+    font-size: 15px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+input.title:focus, input.price:focus{
+    background-color: #ffffff;
+}
+
+button{
+    position: relative;
+    background: #fff;
+    color: #4782ff;
+    border-radius: 15px;
+    border: 0;
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+    font-weight:bolder;
+    cursor: pointer;
+    transition: .5s;
+}
+
+button:hover{
+    background: #4782ff;
+    color: #ffffff;
+}
+
+@media (max-width: 1096px){
+
+    body{
+        overflow-x: hidden;
+    }
+
+    .checkbtn{
+        display: block;
+    }
+
+    .nav-list{
+        position: fixed;
+        top: 10vh;
+        right: 0;
+        width: 100%;
+        height: 100vh;
+        background: rgba(8, 0, 53, 0.95);
+        flex-direction: column;
+        align-items: center;
+        transform: translateX(-100%);
+        transition: .5s;
+    }
+
+    .nav-list.active{
+        backdrop-filter: blur(100px);
+        transform: translateX(0);
+    }
+
+    .nav-list li{
+        margin-left: 0;
+        padding: 50px 0;
+    }
+
+    .mobile_menu{
+        display: block;
+        margin-left: 20px;
+    }
+}
