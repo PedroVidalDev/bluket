@@ -19,7 +19,7 @@ Projeto com o objetivo de criar um e-commerce, auxiliando microempreendedores em
  
 ## Imagens da interface do projeto:
 ### Home da aplicação:
-![Home-Bluket](https://user-images.githubusercontent.com/113215138/219227867-e88fd357-07f5-4f6b-a93c-fb040cebbd9d.png)
+![Home-Bluket](https://github.com/PedroVidalDev/bluket/assets/113215138/112671e7-0488-47cd-94e9-09fd9982a6ff)
 
 ### Página de login do usuário:
 ![Login-Bluket](https://github.com/PedroVidalDev/bluket/assets/113215138/9959f647-bab7-4deb-b7c6-e40aa329fad8)
