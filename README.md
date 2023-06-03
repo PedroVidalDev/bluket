@@ -37,4 +37,4 @@ Projeto com o objetivo de criar um e-commerce, auxiliando microempreendedores em
 ![Dashboard-Bluket](https://github.com/PedroVidalDev/bluket/assets/113215138/e96fd5db-cea9-409a-86a9-d3295d253c65)
 
 ## Consideracoes finais:
-Em suma, adquiri e consolidei muitos conhecimentos de programação web ao desenvolver o projeto, porém como é dito no comeco, acabei por abandonar o projeto, logo, caso o usuário queira, é possível encontrar vários erros de código.
+Em suma, adquiri e consolidei muitos conhecimentos de programação web ao desenvolver o projeto, porém como é dito no comeco, acabei por abandonar a aplicação, logo, caso o usuário queira, é possível encontrar vários erros de código.
