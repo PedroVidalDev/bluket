@@ -24,11 +24,11 @@ Projeto com o objetivo de criar um e-commerce, auxiliando microempreendedores em
 ### Página de login do usuário:
 ![Login-Bluket](https://github.com/PedroVidalDev/bluket/assets/113215138/9959f647-bab7-4deb-b7c6-e40aa329fad8)
 
-### Criação de um projeto na aplicação:
-![Criar-Bluket](https://user-images.githubusercontent.com/113215138/219228329-5e057cbf-ed02-4e5b-a83c-17e1bed06a57.png)
+### Criação de um produto na aplicação:
+![Criar-Bluket](https://github.com/PedroVidalDev/bluket/assets/113215138/32d642c0-00fb-4ad4-a5b0-ab9add70baf4)
 
 ## Visualização dos projetos criados:
-![Project-Bluket](https://user-images.githubusercontent.com/113215138/219228391-ceaff4bc-8086-42d1-8720-c32c91930f64.png)
+![Product-Bluket](https://github.com/PedroVidalDev/bluket/assets/113215138/fcc3f196-3a21-445a-b952-889675841610)
 
 ### Página específica para demonstração detalhada de projetos:
 ![Show-Bluket](https://user-images.githubusercontent.com/113215138/219228477-7b4aaaac-e65f-43c3-9a43-270ceb8d850e.png)
