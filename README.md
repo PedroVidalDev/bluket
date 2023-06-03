@@ -1,5 +1,5 @@
 # Bluket
-Projeto com o objetivo de criar um e-commerce, auxiliando microempreendedores em realizar suas vendas e facilitar o gerenciamento dos itens e vendas. Porem, o maior motivo da criacao desse projeto e para consolidar meus conhecimentos no framework Laravel, que como base utiliza a linguagem PHP. Por fim, acabei nao continuando com o projeto, por nao sentir mais a necessidade de finalizar o mesmo, pois ja estava satisfeito com o aprendizado.
+Projeto com o objetivo de criar um e-commerce, auxiliando microempreendedores em realizar suas vendas e facilitar o gerenciamento dos itens e vendas. Porém, o maior motivo da criação desse projeto é para consolidar meus conhecimentos no framework Laravel, como base na linguagem PHP. Por fim, acabei não continuando com o projeto, por não sentir mais a necessidade de finalizar o mesmo, pois já estava satisfeito com o aprendizado até o presente momento.
 
 ## Linguagens utilizadas:
  - HTML
@@ -35,3 +35,6 @@ Projeto com o objetivo de criar um e-commerce, auxiliando microempreendedores em
 
 ### Registro do usuário:
 ![Dashboard-Bluket](https://github.com/PedroVidalDev/bluket/assets/113215138/e96fd5db-cea9-409a-86a9-d3295d253c65)
+
+## Consideracoes finais:
+Em suma, adquiri e consolidei muitos conhecimentos de programação web ao desenvolver o projeto, porém como é dito no comeco, acabei por abandonar o projeto, logo, caso o usuário queira, é possível encontrar vários erros de código.
