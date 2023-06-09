@@ -1,6 +1,8 @@
 # Bluket
 Projeto com o objetivo de criar um e-commerce, auxiliando microempreendedores em realizar suas vendas e facilitar o gerenciamento dos itens e vendas. Porém, o maior motivo da criação desse projeto é para consolidar meus conhecimentos no framework Laravel, como base na linguagem PHP. Por fim, acabei não continuando com o projeto, por não sentir mais a necessidade de finalizar o mesmo, pois já estava satisfeito com o aprendizado até o presente momento.
 
+Project with the objective of creating an e-commerce, helping micro-entrepreneurs to carry out their sales and facilitate the management of items and sales. However, the main reason for creating this project is to consolidate my knowledge in the Laravel framework, based on the PHP language. Finally, I decided not to continue with the project, as I no longer felt the need to finish it, as I was already satisfied with the learning so far.
+
 ## Linguagens utilizadas:
  - HTML
  - CSS
